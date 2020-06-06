@@ -1,3 +1,5 @@
+# Base Size
+
 **Base Size** is the defined as the [woven wrap size](WovenWrapSizes) needed to do Front Wrap Cross Carry. Base Size can be affected by the size and shape of the wearer, size of the wearee, wrap thickness, taper depth, tightening ability/preference, how much clothing is being worn by the wearer and wearee, and wrapping qualities of the woven wrap.
 
 For new wearers looking for a starting point, T-shirt size may be used as a rough guide for finding your base size. However, it's quite common to find your true base is a size above or a size below what is suggested here as there are other factors at play beyond clothing size. The best way to find your actual Base Size is to try Front Wrap Cross Carry in the wrap size recommended by this T-shirt size guide, as well as a size (or more) up and a size (or more) down. A wrapper's Base Size will likely change over time.
