@@ -1,5 +1,3 @@
-# Wearing Wiki
-
 Welcome to Wearing Wiki! We are rebuilding.
 
 [Browse carries by wrap size](CarriesByWrapSize) (with respect to Base Size)
